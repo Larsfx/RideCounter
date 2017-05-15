@@ -1,0 +1,7 @@
+name: RideCounter
+main: me.larsfx.rc.RideCounter
+author: LarsFx
+version: 1.0
+commands:
+    ride:
+    ridemenu:
